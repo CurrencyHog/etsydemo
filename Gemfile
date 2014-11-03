@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.2.0'
 #gem "paperclip", "~> 4.2"
 gem 'paperclip', '~> 3.4.2'
+gem 'devise'
 group :doc do
   gem 'sdoc', require: false
 end
